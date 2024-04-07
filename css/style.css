@@ -9,6 +9,7 @@ header {
   margin-right: 701px;
   vertical-align: middle;
 }
+
 nav {
   display: inline-block;
   vertical-align: middle;
@@ -25,11 +26,51 @@ li {
   font-weight: 400;
   line-height: 32px;
   letter-spacing: 0.005em;
-  color: #FFFFFF;
-  ;
+  color: #ffffff;
 }
 /* coverpic  */
-.coverpic{
-    display: block;
-    margin: auto;
+.coverpic {
+  display: block;
+  margin: auto;
+}
+/* section  */
+section {
+  width: 1440px;
+  margin: auto;
+  padding: 80px 130px;
+  background-color: #c2f3ee;
+}
+.plantpic {
+  vertical-align: top;
+}
+.sectionArticle {
+  display: inline-block;
+  width: 460px;
+  margin-left: 115px;
+  vertical-align: top;
+}
+h2 {
+  font-family: "Poppins", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0.005em;
+  color: #272727;
+}
+.articleP {
+  display: inline-block;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0.005em;
+  margin-block: 27px 45px;
+}
+button {
+  background-color: #2a9d8f;
+  color: #ffffff;
+  border: none;
+  font-family: "Poppins", sans-serif;
+  padding: 11px 11px 11px 16px;
 }
