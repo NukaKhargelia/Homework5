@@ -10,7 +10,7 @@ header {
   vertical-align: middle;
 }
 
-nav {
+.headernav {
   display: inline-block;
   vertical-align: middle;
 }
@@ -100,3 +100,35 @@ h1 {
   color: #337c81;
 }
 /* footerstart  */
+footer {
+  width: 1440px;
+  margin: 0 auto;
+  background-color: #2a9d8f;
+  padding: 88px 130px;
+}
+.footerLogo {
+  vertical-align: top;
+  margin-right: 934px;
+}
+.footernav {
+  display: inline-block;
+  vertical-align: top;
+}
+.supportP {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 30px;
+  margin-bottom: 24px;
+  color: #FFFFFF;
+}
+.footerLi {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+.MiddleFooterLi{
+    margin-block: 8px;
+}
