@@ -1,0 +1,30 @@
+/* headerstart */
+header {
+  width: 1440px;
+  margin: 0 auto;
+  background-color: #2a9d8f;
+  padding: 38px 130px;
+}
+.logolink {
+  margin-right: 701px;
+  vertical-align: middle;
+}
+nav {
+  display: inline-block;
+  vertical-align: middle;
+}
+li {
+  display: inline-block;
+}
+.headermiddleLi {
+  margin-inline: 72px;
+}
+.headerLi {
+  font-family: "Nerko One", cursive;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0.005em;
+  color: #FFFFFF;
+  ;
+}
